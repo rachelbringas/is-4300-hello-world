@@ -64,10 +64,6 @@ The design choices were kept minimal for the purpose of the assignment. The use 
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Python SimpleHTTPServer Documentation](https://docs.python.org/2/library/simplehttpserver.html)
 - [Node.js http-server](https://www.npmjs.com/package/http-server)
-
-### Helpful Tutorials:
-
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 - [CSS-Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-Feel free to explore and modify the project to suit your needs. Happy coding!
