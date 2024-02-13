@@ -18,7 +18,7 @@ The project is a basic interface that displays the text "Hello, World!" This ser
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/hello-world-interface.git
+     git clone https://github.com/rachelbringas/is-4300-hello-world.git
      ```
 
 2. **Navigate to the Project Directory:**
